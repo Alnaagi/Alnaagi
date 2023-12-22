@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=F70000&center=true&vCenter=true&random=false&width=500&lines=HELLO+FRIEND!;My+Name+is+Mohamed+Alnaagi;Welcome+To+My+GitHub+Page;Feel+Free+To+Look+Around)](https://git.io/typing-svg)
 </div>
 
-## Introduction
+### Introduction
 <summary>feel free to read this:</summary><br>
 
 I am a highly motivated cybersecurity enthusiast and recent CS graduate with a strong desire to learn & grow in the tech field, especially in cybersecurity. For my graduation project, I developed an app using the [Flutter framework](https://flutter.dev/) and [Firebase database](https://firebase.google.com/), which helped me gain experience in software development. Currently, I'm studying for the [Security+ certification](https://www.comptia.org/certifications/security) to solidify my foundation. Following that, I plan to pursue further certifications in the field.
@@ -11,7 +11,7 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 ------------
 
 
-## Skills and Tools
+### Skills and Tools
 
 </summary>I'd like to hope I'm competent, Here are some stuff I've used<br></summary>
 
@@ -31,13 +31,16 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 
 
 
-## CTF Writeups
+### CTF Writeups
 <summary>A writeup is just My thought process during solving CTF's ,I like CTFs, I learn a lot from them</summary>
 
 I plan to do more CTFs and include major ones soon.  
 |Repository|Description|
 |-|-|
 |[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3660|
+
+
+------------
 
 ### Projects
 <details>
@@ -63,15 +66,13 @@ I learnt different languages but usually lean towards Dart because i have fun co
 
 ### Where to Find Me
 
-<summary>For people who need to find me for legit reasons</summary>
-<a href="https://github.com/alnaagi"><img src="./assets/github.svg" width="32"></a>
-<a href="https://devpost.com/alnaagi"><img src="./assets/devpost.svg" width="32"></a>
-<a href="mailto:alnaagi@proton.me"><img src="./assets/protonmail.svg" width="32"></a>
-<a href="https://linked.in/alnaagi"><img src="./assets/linkedin.png" width="32"></a>
+<summary>For people who need to find me for legit reasons</summary><br>
+
+<a href="https://github.com/alnaagi"><img src="./assets/github.svg" width="32"></a> <a href="https://devpost.com/alnaagi"><img src="./assets/devpost.svg" width="32"></a> <a href="mailto:alnaagi@proton.me"><img src="./assets/protonmail.svg" width="32"></a> <a href="https://linked.in/alnaagi"><img src="./assets/linkedin.png" width="32"></a>
 
 ------------
 
-## Here's some cool Stats:
+### Here's some cool Stats:
 <div align="center">
 
 [![User stats](https://github-readme-stats.vercel.app/api?username=alnaagi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
