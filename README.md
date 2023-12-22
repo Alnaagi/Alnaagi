@@ -12,8 +12,7 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 
 ## Skills and Tools
 
-<details>
-I'd like to hope I'm competent, Here are some stuff I've used<br>
+</summary>I'd like to hope I'm competent, Here are some stuff I've used<br></summary>
 
 ### Languages
 
@@ -34,7 +33,6 @@ I'd like to hope I'm competent, Here are some stuff I've used<br>
 <img src="./assets/virtualbox.png" width="32">
 <img src="./assets/vmware.svg" width="32">
 <img src="./assets/wireshark.png" width="32">
-</details>
 
 ## Code
 <details>
