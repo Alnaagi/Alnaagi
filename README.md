@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=F70000&center=true&vCenter=true&random=false&width=500&lines=HELLO+FRIEND!;My+Name+is+Mohamed+Alnaagi;Welcome+To+My+GitHub+Page;Feel+Free+To+Look+Around)](https://git.io/typing-svg)
 </div>
 
-# Introduction
+## Introduction
 <summary>feel free to read this:</summary><br>
 
 I am a highly motivated cybersecurity enthusiast and recent CS graduate with a strong desire to learn & grow in the tech field, especially in cybersecurity. For my graduation project, I developed an app using the [Flutter framework](https://flutter.dev/) and [Firebase database](https://firebase.google.com/), which helped me gain experience in software development. Currently, I'm studying for the [Security+ certification](https://www.comptia.org/certifications/security) to solidify my foundation. Following that, I plan to pursue further certifications in the field.
@@ -11,27 +11,27 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 ------------
 
 
-### Skills and Tools
+## Skills and Tools
 
 </summary>I'd like to hope I'm competent, Here are some stuff I've used<br></summary>
 
-#### Languages:
+### Languages:
 
 <img src="./assets/python.svg" width="32"> <img src="./assets/html.svg" width="32"> <img src="./assets/css.svg" width="32"> <img src="./assets/dart.svg" width="32">
 
 
-#### Frameworks, Libraries, and Similar:
+### Frameworks, Libraries, and Similar:
 
 <img src="./assets/flutter.svg" width="32"> <img src="./assets/firebase.svg" width="32">
 
-#### Tools:
+### Tools:
 <img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32">
 
 ------------
 
 
 
-### CTF Writeups
+## CTF Writeups
 <summary>A writeup is just My thought process during solving CTF's ,I like CTFs, I learn a lot from them</summary>
 
 I plan to do more CTFs and include major ones soon.  
@@ -72,7 +72,7 @@ I learnt different languages but usually lean towards Dart because i have fun co
 
 ------------
 
-### Here's some cool Stats:
+## Here's some cool Stats:
 <div align="center">
 
 [![User stats](https://github-readme-stats.vercel.app/api?username=alnaagi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
