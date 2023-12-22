@@ -4,11 +4,9 @@
 </div>
 
 ## Introduction
-<details>
 <summary>click here & feel free to read this:</summary>
 
 I am a highly motivated cybersecurity enthusiast and recent CS graduate with a strong desire to learn & grow in the tech field, especially in cybersecurity. For my graduation project, I developed an app using the [Flutter framework](https://flutter.dev/) and [Firebase database](https://firebase.google.com/), which helped me gain experience in software development. Currently, I'm studying for the [Security+ certification](https://www.comptia.org/certifications/security) to solidify my foundation. Following that, I plan to pursue further certifications in the field.
-</details>
 
 ## Skills and Tools
 
