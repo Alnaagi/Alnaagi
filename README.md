@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=F70000&center=true&vCenter=true&random=false&width=500&lines=HELLO+FRIEND!;My+Name+is+Mohamed+Alnaagi;Welcome+To+My+GitHub+Page;Feel+Free+To+Look+Around)](https://git.io/typing-svg)
 </div>
 
-### Introduction
+# Introduction
 <summary>feel free to read this:</summary><br>
 
 I am a highly motivated cybersecurity enthusiast and recent CS graduate with a strong desire to learn & grow in the tech field, especially in cybersecurity. For my graduation project, I developed an app using the [Flutter framework](https://flutter.dev/) and [Firebase database](https://firebase.google.com/), which helped me gain experience in software development. Currently, I'm studying for the [Security+ certification](https://www.comptia.org/certifications/security) to solidify my foundation. Following that, I plan to pursue further certifications in the field.
