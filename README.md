@@ -26,18 +26,7 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 ### Tools
 <img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32">
 
-## Code
-<details>
-<summary>Here's some cool Stats:</summary>
-<div align="center">
-
-[![User stats](https://github-readme-stats.vercel.app/api?username=alnaagi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnaagi&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alnaagi&theme=tokyonight)](https://git.io/streak-stats)
-[![Github profile trophies](https://github-profile-trophy.vercel.app/?username=alnaagi&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alnaagi&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 I learnt different languages but usually lean towards Dart because i have fun coding with it.
-</details>
 
 ### Hackathons
 <details>
@@ -56,7 +45,7 @@ My Flutter Mobile App
 <details>
 <summary>A writeup is just My thought process during solving CTF's.</summary>
 
-#### CTFs
+### CTFs
 <details>
 <summary>I like CTFs, I learn a lot from them</summary>
 
@@ -68,14 +57,21 @@ I plan to do more CTFs and include major ones soon.
 </details>
 
 ## Where to Find Me
-<details>
+
 <summary>For people who need to find me for legit reasons</summary>
 <a href="https://github.com/alnaagi"><img src="./assets/github.svg" width="32"></a>
 <a href="https://devpost.com/alnaagi"><img src="./assets/devpost.svg" width="32"></a>
 <a href="mailto:alnaagi@proton.me"><img src="./assets/protonmail.svg" width="32"></a>
 <a href="https://dev.to/alnaagi"><img src="./assets/devto.svg" width="32"></a>
-</details>
 
+## Here's some cool Stats:
+<div align="center">
+
+[![User stats](https://github-readme-stats.vercel.app/api?username=alnaagi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnaagi&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alnaagi&theme=tokyonight)](https://git.io/streak-stats)
+[![Github profile trophies](https://github-profile-trophy.vercel.app/?username=alnaagi&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alnaagi&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 <!--
 ## Recent Activity
 <details>
