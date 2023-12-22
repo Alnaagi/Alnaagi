@@ -26,34 +26,28 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 ### Tools
 <img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32">
 
-I learnt different languages but usually lean towards Dart because i have fun coding with it.
 
-### Hackathons
-<details>
-  
-<summary>I'll update this later as soon as i win some Hackathons <a href="https://devpost.com/alnaagi">Devpost</a>"</summary>
-  
-</details>
-
-### Projects
-<details>
-<summary>I'll showcase some of my cooler projects here</summary>
-My Flutter Mobile App
-</details>
-
-### Writeups
-<details>
-<summary>A writeup is just My thought process during solving CTF's.</summary>
-
-### CTFs
-<details>
-<summary>I like CTFs, I learn a lot from them</summary>
+### CTF Writeups
+<summary>A writeup is just My thought process during solving CTF's ,I like CTFs, I learn a lot from them</summary>
 
 I plan to do more CTFs and include major ones soon.  
 |Repository|Description|
 |-|-|
 |[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3660|
+
+### Projects
+<details>
+<summary>I'll showcase some of my cooler projects Soon</summary>
+My Flutter Mobile App
+I learnt different languages but usually lean towards Dart because i have fun coding with it.
 </details>
+
+
+### Hackathons
+<details>
+  
+<summary>I'll update this later as soon as i win some Hackathons <a href="https://devpost.com/alnaagi>Devpost</a>"</summary>
+  
 </details>
 
 ## Where to Find Me
@@ -62,24 +56,18 @@ I plan to do more CTFs and include major ones soon.
 <a href="https://github.com/alnaagi"><img src="./assets/github.svg" width="32"></a>
 <a href="https://devpost.com/alnaagi"><img src="./assets/devpost.svg" width="32"></a>
 <a href="mailto:alnaagi@proton.me"><img src="./assets/protonmail.svg" width="32"></a>
-<a href="https://dev.to/alnaagi"><img src="./assets/devto.svg" width="32"></a>
+<a href="https://linked.in/alnaagi"><img src="./assets/linkedin.png" width="32"></a>
 
 ## Here's some cool Stats:
 <div align="center">
 
 [![User stats](https://github-readme-stats.vercel.app/api?username=alnaagi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnaagi&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alnaagi&theme=tokyonight)](https://git.io/streak-stats)
+<!--[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnaagi&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alnaagi&theme=tokyonight)](https://git.io/streak-stats)
 [![Github profile trophies](https://github-profile-trophy.vercel.app/?username=alnaagi&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alnaagi&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <!--
-## Recent Activity
-<details>
-<summary></summary>
-
-
-</details>
-
 ## Credits
 <details>
 <summary>If you want to know where all these readme widgets and cool stuff came from:</summary>
