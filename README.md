@@ -28,7 +28,7 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 
 ## Code
 <details>
-<summary>Here's some hopefully maybe cool coding related stuff I do:</summary>
+<summary>Here's some cool Stats:</summary>
 <div align="center">
 
 [![User stats](https://github-readme-stats.vercel.app/api?username=alnaagi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
