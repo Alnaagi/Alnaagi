@@ -12,20 +12,20 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 
 </summary>I'd like to hope I'm competent, Here are some stuff I've used<br></summary>
 
-### Languages
+#### Languages:
 
 <img src="./assets/python.svg" width="32"> <img src="./assets/html.svg" width="32"> <img src="./assets/css.svg" width="32"> <img src="./assets/dart.svg" width="32">
 
 
-### Frameworks, Libraries, and Similar
+#### Frameworks, Libraries, and Similar:
 
 <img src="./assets/flutter.svg" width="32"> <img src="./assets/firebase.svg" width="32">
 
-### Tools
+#### Tools:
 <img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32">
 
 
-### CTF Writeups
+## CTF Writeups
 <summary>A writeup is just My thought process during solving CTF's ,I like CTFs, I learn a lot from them</summary>
 
 I plan to do more CTFs and include major ones soon.  
@@ -48,7 +48,7 @@ I learnt different languages but usually lean towards Dart because i have fun co
   
 </details>
 
-## Where to Find Me
+### Where to Find Me
 
 <summary>For people who need to find me for legit reasons</summary>
 <a href="https://github.com/alnaagi"><img src="./assets/github.svg" width="32"></a>
