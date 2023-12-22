@@ -8,6 +8,9 @@
 
 I am a highly motivated cybersecurity enthusiast and recent CS graduate with a strong desire to learn & grow in the tech field, especially in cybersecurity. For my graduation project, I developed an app using the [Flutter framework](https://flutter.dev/) and [Firebase database](https://firebase.google.com/), which helped me gain experience in software development. Currently, I'm studying for the [Security+ certification](https://www.comptia.org/certifications/security) to solidify my foundation. Following that, I plan to pursue further certifications in the field.
 
+------------
+
+
 ## Skills and Tools
 
 </summary>I'd like to hope I'm competent, Here are some stuff I've used<br></summary>
@@ -23,6 +26,9 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 
 #### Tools:
 <img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32">
+
+------------
+
 
 
 ## CTF Writeups
@@ -41,13 +47,19 @@ I learnt different languages but usually lean towards Dart because i have fun co
 </details>
 
 
+------------
+
+
 ### Hackathons
 <details>
   
 <summary>I'll update this later as soon as i win some Hackathons <a href="https://devpost.com/alnaagi>Devpost</a>"</summary>
   
 </details>
-_______
+
+------------
+
+
 
 ### Where to Find Me
 
@@ -56,6 +68,8 @@ _______
 <a href="https://devpost.com/alnaagi"><img src="./assets/devpost.svg" width="32"></a>
 <a href="mailto:alnaagi@proton.me"><img src="./assets/protonmail.svg" width="32"></a>
 <a href="https://linked.in/alnaagi"><img src="./assets/linkedin.png" width="32"></a>
+
+------------
 
 ## Here's some cool Stats:
 <div align="center">
