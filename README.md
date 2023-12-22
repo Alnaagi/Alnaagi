@@ -52,6 +52,7 @@ Here are some stuff I've used
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alnaagi&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 I learnt different languages but usually lean towards Dart because i have fun coding with it.
+</details>
 
 ### Hackathons
 <details>
@@ -79,6 +80,7 @@ I plan to do more CTFs and include major ones soon.
 |-|-|
 |[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3660|
 </details>
+
 
 ## Where to Find Me
 <details>
