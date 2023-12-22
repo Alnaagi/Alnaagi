@@ -34,7 +34,7 @@ Here are some stuff I've used
 <img src="./assets/kali.svg" width="32">
 <img src="./assets/virtualbox.png" width="32">
 <img src="./assets/vmware.svg" width="32">
-<img src="./assets/wireshark.svg" width="32">
+<img src="./assets/wireshark.png" width="32">
 </details>
 
 ## Code
