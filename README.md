@@ -72,17 +72,17 @@ My Flutter Mobile App
 
 #### CTFs
 <details>
-<summary>I like attempting CTFs from time to time. The keyword here is definitely "attemping" since I'm not exactly great at them.</summary>
+<summary>I like CTFs, I learn a lot from them</summary>
 
-I plan to do more CTFs and only include major ones later.  
+I plan to do more CTFs and include major ones soon.  
 |Repository|Description|
 |-|-|
-|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagidai&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3660
+|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagidai&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3660|
 </details>
 
 ## Where to Find Me
 <details>
-<summary>For the mega stalkers (and people who need to find me for legit reasons)</summary>
+<summary>For people who need to find me for legit reasons</summary>
 <a href="https://github.com/alnaagi"><img src="./assets/github.svg" width="32"></a>
 <a href="https://devpost.com/alnaagi"><img src="./assets/devpost.svg" width="32"></a>
 <a href="mailto:alnaagi@proton.me"><img src="./assets/protonmail.svg" width="32"></a>
