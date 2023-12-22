@@ -7,10 +7,6 @@
 <details>
 <summary>feel free to read this:</summary>
 
-Visitors:    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-![visitors badge](https://badge?page_id=https://github.com/alnaagi)  
-<!--I'm watching 👀
--->
 I am a highly motivated cybersecurity enthusiast and recent CS graduate with a strong desire to learn & grow in the tech field, especially in cybersecurity. For my graduation project, I developed an app using the Flutter framework and Firebase database, which helped me gain experience in software development. Currently, I'm studying for the Security+ certification to solidify my foundation. Following that, I plan to pursue further certifications in the field.
 </details>
 
