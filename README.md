@@ -16,15 +16,15 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 
 ### Languages
 
-<img src="./assets/python.svg" width="32"><img src="./assets/html.svg" width="32"><img src="./assets/css.svg" width="32"><img src="./assets/dart.svg" width="32">
+<img src="./assets/python.svg" width="32"> <img src="./assets/html.svg" width="32"> <img src="./assets/css.svg" width="32"> <img src="./assets/dart.svg" width="32">
 
 
 ### Frameworks, Libraries, and Similar
 
-<img src="./assets/flutter.svg" width="32"><img src="./assets/firebase.svg" width="32">
+<img src="./assets/flutter.svg" width="32"> <img src="./assets/firebase.svg" width="32">
 
 ### Tools
-<img src="./assets/vscode.svg" width="32"><img src="./assets/kali.svg" width="32"><img src="./assets/virtualbox.png" width="32"><img src="./assets/vmware.svg" width="32"><img src="./assets/wireshark.png" width="32">
+<img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32">
 
 ## Code
 <details>
