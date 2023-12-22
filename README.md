@@ -27,7 +27,7 @@ Here are some stuff I've used
 ### Frameworks, Libraries, and Similar
 
 <img src="./assets/flutter.svg" width="32">
-<img src="./assets/nodejs.svg" width="32">
+<img src="./assets/firebase.svg" width="32">
 
 ### Tools
 <img src="./assets/vscode.svg" width="32">
