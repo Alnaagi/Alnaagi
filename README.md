@@ -17,26 +17,20 @@ I am a highly motivated cybersecurity enthusiast and recent CS graduate with a s
 Here are some stuff I've used
 
 ### Languages
-<img src="./assets/java.svg" width="32">
+
 <img src="./assets/python.svg" width="32">
 <img src="./assets/html.svg" width="32">
 <img src="./assets/css.svg" width="32">
-<img src="./assets/js.svg" width="32">
-<img src="./assets/arduino.svg" width="32">
-<img src="./assets/ts.svg" width="32">
-<img src="./assets/kotlin.svg" width="32">
+<img src="./assets/dart.svg" width="32">
+
 
 ### Frameworks, Libraries, and Similar
-<img src="./assets/jekyll.svg" width="32">
+
+<img src="./assets/flutter.svg" width="32">
 <img src="./assets/nodejs.svg" width="32">
-<img src="./assets/numpy.svg" width="32">
-<img src="./assets/tf.svg" width="32">
-<img src="./assets/flask.svg" width="32">
 
 ### Tools
-<img src="./assets/git.svg" width="32">
 <img src="./assets/vscode.svg" width="32">
-<img src="./assets/latex.svg" width="32">
 <img src="./assets/kali.svg" width="32">
 <img src="./assets/androidstudio.svg" width="32">
 </details>
