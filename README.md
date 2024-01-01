@@ -25,7 +25,7 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 <img src="./assets/flutter.svg" width="32"> <img src="./assets/firebase.svg" width="32"> <img src="./assets/ssms.png" width="32"> <img src="./assets/net.png" width="32"> 
 
 ### Tools:
-<img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32"> <img src="./assets/vs.png" width="32"> <img src="./assets/turbo.png" width="32"> <img src="./assets/burpsuite.svg" width="32">
+<img src="./assets/vscode.svg" width="32"> <img src="./assets/kali.svg" width="32"> <img src="./assets/virtualbox.png" width="32"> <img src="./assets/vmware.svg" width="32"> <img src="./assets/wireshark.png" width="32"> <img src="./assets/vs.png" width="32"> <img src="./assets/turbo.png" width="32"> <img src="./assets/burpsuite.svg" width="32"> <img src="./assets/androidstudio.svg" width="32">
 
 ------------
 
