@@ -37,7 +37,7 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 I plan to do more CTFs and include major ones soon.  
 |Repository|Description|
 |-|-|
-|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3760|
+|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3780|
 
 
 ------------
