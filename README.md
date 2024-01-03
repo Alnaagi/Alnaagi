@@ -43,11 +43,11 @@ I plan to do more CTFs and include major ones soon.
 ------------
 
 ### Projects
-<details>
-<summary>I'll showcase some of my cooler projects Soon</summary>
-My Flutter Mobile App
-I learnt different languages but usually lean towards Dart because i have fun coding with it.
-</details>
+<summary>Here are some of my projects/summary>
+|Repository|Description|
+|-|-|
+|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| I'm proud to present my graduation project: an app I built using Flutter and Firebase. The app is a student portal that has many useful features for college students. |
+
 
 
 ------------
