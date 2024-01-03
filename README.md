@@ -47,7 +47,12 @@ I plan to do more CTFs and include major ones soon.
   
 |Repository|Description|
 |-|-|
-|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| I'm proud to present my graduation project: an app I built using Flutter and Firebase.<br> The app is a student portal that has many useful features for college students. |
+|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Some of the features are:
+- Signing up and logging in with secure authentication
+- Viewing your GPA, debts, subjects, and exam results in one place
+- Getting general info about the college, such as events, news, and contacts
+- Accessing the app from any device with an internet connection
+ |
 
 
 
