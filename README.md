@@ -51,8 +51,7 @@ I plan to do more CTFs and include major ones soon.
 - Signing up and logging in with secure authentication
 - Viewing your GPA, debts, subjects, and exam results in one place
 - Getting general info about the college, such as events, news, and contacts
-- Accessing the app from any device with an internet connection
- |
+- Accessing the app from any device with an internet connection|
 
 
 
