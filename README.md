@@ -47,9 +47,7 @@ I plan to do more CTFs and include major ones soon.
   
 |Repository|Description|
 |-|-|
-|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Some of the features are:<br> - Signing up and logging in with secure authentication<br>- Viewing your GPA, debts, subjects, and exam results in one place<br> - Getting general info about the college, such as events, news, and contacts
-- Accessing the app from any device with an internet connection<br>|
-
+|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| **Some of the features are:**/<br> - Signing up and logging in with secure authentication<br>- Viewing your GPA, debts, subjects, and exam results in one place<br> - Getting general info about the college, such as events, news, and contacts<br> - Accessing the app from any device with an internet connection<br>|
 
 
 ------------
