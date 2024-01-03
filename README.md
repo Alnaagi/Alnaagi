@@ -13,7 +13,7 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 
 ## Skills and Tools
 
-</summary>I'd like to hope I'm competent, Here are some stuff I've used<br></summary>
+</summary>I'd like to hope I'm competent, Here are some stuff I've usedI'm proud to present my graduation project: an app I built using Flutter and Firebase. The app is a student portal that has many useful features for college students.</summary>
 
 ### Languages:
 
@@ -43,11 +43,11 @@ I plan to do more CTFs and include major ones soon.
 ------------
 
 ## Projects
-<summary>Here are some of my projects/summary>
+<summary>Here are some of my projects</summary>
   
 |Repository|Description|
 |-|-|
-|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| I'm proud to present my graduation project: an app I built using Flutter and Firebase. The app is a student portal that has many useful features for college students. |
+|[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| I'm proud to present my graduation project: an app I built using Flutter and Firebase.<br> The app is a student portal that has many useful features for college students. |
 
 
 
