@@ -76,7 +76,7 @@ I plan to do more CTFs and include major ones soon.
 <div align="center">
 
 [![User stats](https://github-readme-stats.vercel.app/api?username=alnaagi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnaagi&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnaagi&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alnaagi&theme=tokyonight)](https://git.io/streak-stats)
 [![Github profile trophies](https://github-profile-trophy.vercel.app/?username=alnaagi&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alnaagi&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
