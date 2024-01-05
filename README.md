@@ -43,7 +43,7 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 
 
 ## Projects
-</details>
+<details>
 <summary>Here are some of my projects</summary>
   
 |Repository|Description|
