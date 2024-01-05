@@ -40,7 +40,7 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 |[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=PicoCTF_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| Current Stats picoGym Score: 3880|
 |[![CTFLEARN_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=CTFLEARN_Writeups&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/CTFLEARN_Writeups/)| Current Score: 30|
 </details>
-------------
+
 
 ## Projects
 </details>
@@ -49,9 +49,8 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 |Repository|Description|
 |-|-|
 |[![PicoCTF_Writeups](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=Alhadera&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/PicoCTF_Writeups/)| **Some of the features are:**<br> - Signing up and logging in with secure authentication<br>- Viewing your GPA, debts, subjects, and exam results in one place<br> - Getting general info about the college, such as events, news, and contacts<br> - Accessing the app from any device with an internet connection<br>|
-|[![portfolio_flutter_webapp✨](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=portfolio_flutter_webapp&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/portfolio_flutter_webapp/)| **It features:**<br> - Seamless navigation and smooth animations - Responsive design for optimal viewing across devices - Interactive elements to engage visitors - Key projects and skills showcased effectively<br>|
+|[![portfolio_flutter_webapp✨](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=portfolio_flutter_webapp&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/portfolio_flutter_webapp/)| **It features:**<br> - Seamless navigation and smooth animations<br> - Responsive design for optimal viewing across devices<br> - Interactive elements to engage visitors<br> - Key projects and skills showcased effectively|
 </details>
-------------
 
 
 ### Hackathons
@@ -60,9 +59,6 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 <summary>I'll update this later as soon as i win some Hackathons <a href="https://devpost.com/alnaagi>Devpost</a>"</summary>
   
 </details>
-
-------------
-
 
 
 ### Where to Find Me
