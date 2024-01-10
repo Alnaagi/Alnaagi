@@ -13,7 +13,7 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 
 ## Skills and Tools
 
-</summary>I'd like to hope I'm competent, Here are some stuff I've used.</summary>
+</summary>I'd like to hope I'm competent, Here are some of the stuff I've used.</summary>
 
 ### Languages:
 
