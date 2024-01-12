@@ -7,6 +7,7 @@
 <summary>feel free to read this:</summary><br>
 
 I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a strong desire to learn & grow, especially in cybersecurity. For my graduation project, I developed an app using the [Flutter framework](https://flutter.dev/) and [Firebase database](https://firebase.google.com/), which helped me gain experience in software development.
+
 ------------
 
 
