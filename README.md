@@ -52,14 +52,14 @@ I am a highly motivated cybersecurity enthusiast and a recent CS graduate with a
 |[![portfolio_flutter_webapp✨](https://github-readme-stats.vercel.app/api/pin/?username=alnaagi&repo=portfolio_flutter_webapp&theme=tokyonight&show_owner=true)](https://github.com/Alnaagi/portfolio_flutter_webapp/)| **It features:**<br> - Seamless navigation and smooth animations<br> - Responsive design for optimal viewing across devices<br> - Interactive elements to engage visitors<br> - Key projects and skills showcased effectively|
 </details>
 
-
+<!--
 ### Hackathons
 <details>
   
 <summary>I'll update this later as soon as i win some Hackathons <a href="https://devpost.com/alnaagi>Devpost</a>"</summary>
   
 </details>
-
+-->
 
 ### Where to Find Me
 
